@@ -1,4 +1,4 @@
-# 2024 CABS Winter Internship Training Program
+# 2024 CABS Winter Internship Anasna Training Program
 
 The Chinese American Biopharmaceutical Society (CABS) is thrilled to announce a new CABS Data Science Winter Internship Program focused on the cutting-edge field of data science applied to drug discovery and development.
 
